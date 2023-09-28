@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{38326E31-4BA1-0465-B67B-C48DAD0B1ECC}",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,15 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "PaperZD",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	]
 }
